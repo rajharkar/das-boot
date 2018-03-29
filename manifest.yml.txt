@@ -1,4 +1,0 @@
-applications:
-- name: das-boot
-  memory: 512M
-  host: https://dasbootspring.cfapps.io

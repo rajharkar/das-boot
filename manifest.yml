@@ -1,0 +1,6 @@
+applications:
+- name: das-bootjpmorg
+  memory: 512M
+  domain : cfapps.io
+  path : target\das-boot-0.0.1-SNAPSHOT.jar
+  instances : 1

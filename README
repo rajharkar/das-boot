@@ -1,0 +1,4 @@
+Using this command we can push to cloud foundry
+
+cf push das-bootjpmorg -p target\das-boot-0.0.1-SNAPSHOT.jar
+

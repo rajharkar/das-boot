@@ -1,5 +1,5 @@
-com\boot\App.class
-com\boot\model\Shipwreck.class
 com\boot\controller\HomeController.class
+com\boot\model\Shipwreck.class
 com\boot\controller\ShipreckController.class
 com\boot\controller\ShipwreckStub.class
+com\boot\Application.class

@@ -1,6 +1,6 @@
 angular.module('navController', [])
 	.controller('nav', function($scope, $state) {
-		$scope.title = 'WWII Shipwrecks';
+		$scope.title = 'Delivery Cart';
 
 		// returns true if the current router url matches the passed in url
 		// so views can set 'active' on links easily
@@ -15,7 +15,7 @@ angular.module('navController', [])
 				url: '#/'
 			},
 			{
-				name: 'Shipwrecks',
+				name: 'Add Items',
 				url: '#/shipwrecks'
 			}
 		]
